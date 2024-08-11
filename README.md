@@ -1,0 +1,2 @@
+This project is a recipe website made with very basic HTML knowledge
+I will be using the standard HTML index boilerplate, and add to it using paragraphs (with some text emphasized and bolded). I will also be using images and links to other pages and pages on the web. The text will be properly spaced and formatted for easy reading, and will also contain a few comments for clarity.
