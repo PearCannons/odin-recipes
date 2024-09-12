@@ -1,0 +1,21 @@
+.heading {
+    background-color: orangered;
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+.subheading.two {
+    background-color: aqua;
+}
+
+.underheading.three {
+    background-color: blueviolet;
+}
+
+#paras {
+    font-weight: 800;
+    font-style: italic;
+}
+.item {
+   font-weight: bolder;
+}
+
